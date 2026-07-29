@@ -13,9 +13,12 @@ As a 2024 ECE Graduate, I focus on applying structured system logic to clean unf
 * **Data Scale:** High-volume transaction dataset tracking nationwide consumer trends.
 * **Core Technical Deployments:**
   * Automated data ingestion by converting raw transactional records into dynamic structural Tables (`Ctrl + T`).
-  * Implemented string standardization algorithms (`PROPER`, `TRIM`) to eliminate spacing bugs in regional fields.
-  * Formatted multicurrency columns (INR ₹) and deployed conditional logic algorithms (`IF`/`IFS`) to flag premium consumer spenders over ₹5,000.
-  * Constructed pivot matrices comparing `Product Category` vs. `Payment Method` (UPI vs. COD) using nested percentage calculations (`% of Row Total`) to isolate payment preferences.
+  * Implemented basic text adjustments (`PROPER`, `TRIM`) to keep columns clean and formatted.
+  * Applied auto-fill conditional formulas to copy logic across all rows efficiently.
+  * **Core Product Comparison Sprints:**
+    * Constructed Pivot Tables to isolate 'Product Categories' against 'Total Sales' to see which items generate the highest overall revenue.
+    * Ran quick, targeted data comparisons comparing customer segments and order values to spot simple purchasing variations.
+
 
 ### 2. Product Store Orders: Milestone Assessment
 * **File Name:** `product_store_orders_milestone_assessment.xlsx`
